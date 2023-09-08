@@ -1,0 +1,4 @@
+﻿  Driver.cpp
+C:\Users\caleb\Documents\GitHub\Personal Repos\Misc Personal Repos\Threaded_Binary_Tree_Lab\book.h(78,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(88): message : see previous definition of 'INFINITY'
+  Threaded_Binary_Tree_Lab.vcxproj -> C:\Users\caleb\Documents\GitHub\Personal Repos\Misc Personal Repos\Threaded_Binary_Tree_Lab\x64\Debug\Threaded_Binary_Tree_Lab.exe
